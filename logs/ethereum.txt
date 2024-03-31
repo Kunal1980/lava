@@ -84,3 +84,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x565527dce"}
 {"jsonrpc":"2.0","id":1,"result":"0x564fc2e7e"}
 {"error":"{\"Error_GUID\":\"9111342382817462186\",\"Error\":\"Failed all retries {GUID:9111342382817462186,error:rpc error: code = Code(3370) desc = relayReceiver is disabled ErrMsg: provider does not pass verification and disabled this interface and spec {relayReceiver:ETH1jsonrpc}: provider does not pass verification and disabled this interface and spec,chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x69b458f3c"}
